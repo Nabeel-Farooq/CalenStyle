@@ -64,16 +64,6 @@ Files - Particular Version
 <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.calenstyle/<version>/i18n/calenstyle-i18n.js"></script>
 ```
 
-## Authors
-[Neha Kadam](https://github.com/nehakadam): Developer<br/> 
-[Lajpat Shah](https://github.com/lajpatshah): Concept & Design Contributor
-
-## Thank You
-- [All Contributors](https://github.com/nehakadam/DateTimePicker/contributors)
-
-<br/> <br/> 
-
-Copyright 2017 [Lajpat Shah](https://github.com/lajpatshah)
 
 ##License
 
