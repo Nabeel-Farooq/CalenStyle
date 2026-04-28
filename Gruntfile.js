@@ -2,10 +2,10 @@ module.exports = function(grunt)
 {
 	var sBanner = '/* ----------------------------------------------------------------------------- ' +
 	'\n\n  CalenStyle - Responsive Event Calendar' +
-	'\n  Version <%= pkg.version %>' + 
+	'\n  Version <%= pkg.version %>' +  
 	'\n  Copyright (c)<%= grunt.template.today("yyyy") %> Lajpat Shah' +
-	'\n  Contributors : https://github.com/nehakadam/CalenStyle/contributors' +
-	'\n  Repository : https://github.com/nehakadam/CalenStyle' +
+	'\n  Contributors : https://github.com/nehakadam/CalenStyle/contributors' + 
+	'\n  Repository : https://github.com/nehakadam/CalenStyle' + 
 	'\n  Homepage : https://nehakadam.github.io/CalenStyle' +
 	'\n\n ----------------------------------------------------------------------------- */\n\n';
 	
